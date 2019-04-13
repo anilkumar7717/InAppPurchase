@@ -1,0 +1,4 @@
+Key Store password :- android
+Key Password :- android
+
+key alias :-  iap
